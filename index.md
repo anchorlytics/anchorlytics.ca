@@ -1,3 +1,3 @@
 ---
-redirect_to: https://seanho.com/
+redirect_to: https://anchorlytics.com/
 ---
