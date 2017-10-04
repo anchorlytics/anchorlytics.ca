@@ -1,1 +1,1 @@
-redirect_to: https://anchorlytics.com/
+redirect_to: https://seanho.com/
